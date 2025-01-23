@@ -1,4 +1,4 @@
-This project is a Jupyter Notebook (.ipynb) implementation designed to perform Optical Character Recognition (OCR) specifically for extracting text from newspaper images. The notebook processes input images, applies pre-processing techniques, and extracts text using OCR tools.
+This Jupyter Notebook (.ipynb) implementation designed to perform Optical Character Recognition (OCR) specifically for extracting text from newspaper images. The notebook processes input images, applies pre-processing techniques, and extracts text using OCR tools.
 
 Features
 Image Preprocessing: Enhances newspaper images for better OCR results (e.g., noise removal, binarization).
